@@ -2,47 +2,99 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmednasser111&label=Profile%20views&color=0e75b6&style=flat)
 
-## 🌟 About Me
-Dedicated and innovative Frontend Developer with a passion for creating robust, user-friendly web applications using React. Leveraging a strong background in multiple programming languages to deliver high-quality, efficient solutions.
+## 📍 Contact Information
+- **Location**: Alexandria, Egypt
+- **Phone**: +201274082497
+- **Email**: [ahmednaser7707@gmail.com](mailto:ahmednaser7707@gmail.com)
+- **LinkedIn**: [Ahmed Naser](https://linkedin.com/in/ahmed-naser-16047a222)
+- **GitHub**: [ahmednasser111](https://github.com/ahmednasser111)
 
-## 🛠 Technical Skill Set
+## 🌟 Professional Summary
+Innovative software developer skilled in React, TypeScript, and full-stack technologies. Passionate about creating efficient, user-centric web applications with strong problem-solving abilities and a commitment to clean, scalable code.
+
+## 🎓 Education
+### Bachelor's Degree in Computer Science
+**Alexandria University** (2021 - 2025)
+- Relevant Coursework: 
+  - Data Structures
+  - Algorithms
+  - Database Systems
+  - Web Development
+  - Software Engineering
+
+### Open Source Development
+**Information Technology Institute (ITI)** (07-2024 – 08-2024)
+- Skills Learned: 
+  - Frontend: HTML, CSS, JavaScript
+  - Backend: PHP
+  - Database: MySQL
+
+## 🛠 Technical Skills
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB3?style=for-the-badge&logo=php&logoColor=white)
 
 ### Frontend Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+## 🚀 Featured Projects
+
+### VS Code Clone
+- **Technologies**: React, TypeScript, Tailwind, Redux
+- Developed a web-based clone of Visual Studio Code
+- Implemented dynamic file explorer and syntax highlighting
+- Efficient state management and responsive design
+- [GitHub Repository](https://github.com/ahmednasser111/vs-code-clone)
+
+### Product Builder
+- **Technologies**: React, TypeScript, Tailwind
+- Created an application for managing product listings
+- Features include view, add, edit, and delete functionality
+- [GitHub Repository](https://github.com/ahmednasser111/product-builder)
+
+### Tic-Tac-Toe Game
+- **Technologies**: React, Next.js, TypeScript
+- Implemented a classic interactive Tic-Tac-Toe game
+- [GitHub Repository](https://github.com/ahmednasser111/tic-tac-toe-game)
+
+### Additional Projects
+- Quiz App (HTML, CSS, JavaScript)
+- Memory Game (HTML, CSS, JavaScript)
+- Guess Word Game (HTML, CSS, JavaScript)
 
 ## 📊 GitHub Statistics
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmednasser111&layout=compact&theme=radical)
 
-## 🚀 Professional Highlights
+## 🤝 Professional Highlights
 - Experienced in developing responsive and interactive web applications
 - Strong problem-solving skills with a versatile programming background
 - Committed to writing clean, efficient, and maintainable code
-- Rapid learner with a passion for emerging technologies
-
-## 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-naser-16047a222)
-[![CodeForces](https://img.shields.io/badge/Codeforces-445f9b?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ahmednaser7707)
-
-## 📬 Contact Me
-- **Email**: [ahmednaser7707@gmail.com](mailto:ahmednaser7707@gmail.com)
+- Passionate about mobile-first development and RESTful API integration
 
 ## 💼 Hire Me
 [![Upwork](https://img.shields.io/badge/Hire%20me%20on-Upwork-brightgreen?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~013c822b3dea25ba92)
 [![Fiverr](https://img.shields.io/badge/Hire%20me%20on-Fiverr-green?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/sellers/ahmednaser7707/)
 
----
-*Transforming ideas into powerful, elegant web solutions*
+## 🤝 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-naser-16047a222)
+[![CodeForces](https://img.shields.io/badge/Codeforces-445f9b?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ahmednaser7707)
