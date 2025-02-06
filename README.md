@@ -3,7 +3,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmednasser111&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 📍 Contact Information
-- **Location**: Alexandria, Egypt
 - **Phone**: +201274082497
 - **Email**: [ahmednaser7707@gmail.com](mailto:ahmednaser7707@gmail.com)
 - **LinkedIn**: [Ahmed Naser](https://linkedin.com/in/ahmed-naser-16047a222)
