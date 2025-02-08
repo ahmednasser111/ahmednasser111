@@ -27,7 +27,6 @@ Innovative software developer skilled in React, TypeScript, and full-stack techn
   - Frontend: HTML, CSS, JavaScript
   - Backend: PHP
   - Database: MySQL
-  - 
 ## 🛠 Technical Skills
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
