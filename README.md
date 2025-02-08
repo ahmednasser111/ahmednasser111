@@ -93,9 +93,18 @@ Innovative software developer skilled in React, TypeScript, and full-stack techn
 - Committed to writing clean, efficient, and maintainable code
 - Passionate about mobile-first development and RESTful API integration
 
+## 💼 Services
+I offer the following services:
+- **Frontend Development**: Building responsive and modern web applications using React, Next.js, and TypeScript.
+- **UI/UX Optimization**: Improving design, accessibility, and user experience using Tailwind CSS and best practices.
+- **API Integration**: Implementing and consuming RESTful APIs with secure authentication.
+- **Code Review & Optimization**: Reviewing and optimizing code for performance, scalability, and maintainability.
+- **Freelancing & Consultation**: Available for freelance projects on Upwork and Fiverr.
+
+
 ## 💼 Hire Me
 [![Upwork](https://img.shields.io/badge/Hire%20me%20on-Upwork-brightgreen?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~013c822b3dea25ba92)
 [![Fiverr](https://img.shields.io/badge/Hire%20me%20on-Fiverr-green?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/sellers/ahmednaser7707/)
 
 ## 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-naser-16047a222)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-naser-16047a222) or connect on [ahmednaser7707@gmail.com](mailto:ahmednaser7707@gmail.com)
