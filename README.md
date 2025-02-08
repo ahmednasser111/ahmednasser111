@@ -2,14 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmednasser111&label=Profile%20views&color=0e75b6&style=flat)
 
-## 📍 Contact Information
-- **Phone**: +201274082497
-- **Email**: [ahmednaser7707@gmail.com](mailto:ahmednaser7707@gmail.com)
-- **LinkedIn**: [Ahmed Naser](https://linkedin.com/in/ahmed-naser-16047a222)
-- **GitHub**: [ahmednasser111](https://github.com/ahmednasser111)
-
 ## 🌟 Professional Summary
-Innovative software developer skilled in React, TypeScript, and full-stack technologies. Passionate about creating efficient, user-centric web applications with strong problem-solving abilities and a commitment to clean, scalable code.
+I am a highly skilled Frontend Developer specializing in React, TypeScript, and modern web technologies. With a strong foundation in UI/UX principles and a passion for clean, scalable code, I help businesses build fast, responsive, and user-friendly web applications.
 
 ## 🎓 Education
 ### Bachelor's Degree in Computer Science
@@ -107,4 +101,7 @@ I offer the following services:
 [![Fiverr](https://img.shields.io/badge/Hire%20me%20on-Fiverr-green?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/sellers/ahmednaser7707/)
 
 ## 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-naser-16047a222) or connect on [ahmednaser7707@gmail.com](mailto:ahmednaser7707@gmail.com)
+- **Phone**: +201274082497
+- **Email**: [ahmednaser7707@gmail.com](mailto:ahmednaser7707@gmail.com)
+- **LinkedIn**: [Ahmed Naser](https://linkedin.com/in/ahmed-naser-16047a222)
+- **GitHub**: [ahmednasser111](https://github.com/ahmednasser111)
