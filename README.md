@@ -58,7 +58,11 @@ Innovative software developer skilled in React, TypeScript, and full-stack techn
 
 ## 🚀 Featured Projects
 
-### VS Code Clone
+### [Fullstack todo list](https://fullstack-todo-list-smoky.vercel.app/login)
+- **Technologies**: React, TypeScript, Tailwind, Redux
+- [GitHub Repository](https://github.com/ahmednasser111/fullstack-todo-list)
+
+### [VS Code Clone](https://product-builder-teal.vercel.app/)
 - **Technologies**: React, TypeScript, Tailwind, Redux
 - Developed a web-based clone of Visual Studio Code
 - Implemented dynamic file explorer and syntax highlighting
