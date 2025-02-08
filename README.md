@@ -11,7 +11,7 @@
 ## 🌟 Professional Summary
 Innovative software developer skilled in React, TypeScript, and full-stack technologies. Passionate about creating efficient, user-centric web applications with strong problem-solving abilities and a commitment to clean, scalable code.
 
-## 🎓 Education
+<!-- ## 🎓 Education
 ### Bachelor's Degree in Computer Science
 **Alexandria University** (2021 - 2025)
 - Relevant Coursework: 
@@ -27,7 +27,7 @@ Innovative software developer skilled in React, TypeScript, and full-stack techn
   - Frontend: HTML, CSS, JavaScript
   - Backend: PHP
   - Database: MySQL
-
+-->
 ## 🛠 Technical Skills
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -96,4 +96,3 @@ Innovative software developer skilled in React, TypeScript, and full-stack techn
 
 ## 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-naser-16047a222)
-[![CodeForces](https://img.shields.io/badge/Codeforces-445f9b?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ahmednaser7707)
